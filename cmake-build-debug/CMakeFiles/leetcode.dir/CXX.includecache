@@ -6,13 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/Users/xieqingyuan/Desktop/leetcode/main.cpp
+/Users/xieqingyuan/Desktop/leetcode/2.cpp
 vector
 -
-map
--
 iostream
--
-unordered_map
 -
 
