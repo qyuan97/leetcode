@@ -6,11 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/Users/xieqingyuan/Desktop/leetcode/4.cpp
+/Users/xieqingyuan/Desktop/leetcode/7.cpp
 iostream
 -
-vector
--
-algorithm
+stack
 -
 
